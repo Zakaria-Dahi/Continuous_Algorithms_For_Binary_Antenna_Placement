@@ -1,4 +1,4 @@
-# Continuous_Algorithms_For_Solving_Binary_Problems (I)
+# Continuous_Algorithms_For_Binary_Antenna_Placement
 
 **Programmer:shipit:**: Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
 
