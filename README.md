@@ -1,6 +1,6 @@
 # Continuous_Optimisers_For_Binary_Antenna_Placement
 
-**Programmer:shipit:**: Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
+**Programmer:shipit:**: Zakaria Abdelmoiz DAHI. 
 
 **About:** This repositiory implements the binary variants of the algorithms devised and studied in [1] that solves the antenna positioning problem in cellular networks using several types of antennas, named directive, directional and circular.
 
